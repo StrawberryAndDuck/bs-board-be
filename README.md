@@ -16,4 +16,5 @@
   - 댓글 답변
 
 # ERD
-<img width="787" alt="스크린샷 2024-11-21 오후 11 27 19" src="https://github.com/user-attachments/assets/9933335c-0ea3-41ca-8cbb-2b83589b2917">
+![image](https://github.com/user-attachments/assets/38621f2b-3f5c-49c1-93ea-27c764240b72)
+
