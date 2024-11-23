@@ -1,8 +1,8 @@
 import { Module } from '@nestjs/common';
-import { UserModule } from './user/user.module';
-import { BoardModule } from './board/board.module';
-import { CommentModule } from './comment/comment.module';
-import { PostModule } from './post/post.module';
+import { UserModule } from './domains/user/user.module';
+import { BoardModule } from './domains/board/board.module';
+import { CommentModule } from './domains/comment/comment.module';
+import { PostModule } from './domains/post/post.module';
 import { TypeOrmModule } from '@nestjs/typeorm';
 import { ConfigModule, ConfigService } from '@nestjs/config';
 
